@@ -23,6 +23,15 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 - Estructura de directorios completa
 - Directorio para imágenes de prueba (`test_images/`)
 - Directorio para resultados (`results/`)
+- Script de pruebas simplificado (`scripts/simple_api_test.py`)
+- Guía de pruebas manuales (`MANUAL_API_TEST.md`)
+- Configuración de API keys en archivo `.env`
+- Pruebas exitosas de todas las APIs principales
+- Validación de USDA Food Data Central (26k+ alimentos encontrados)
+- Validación de Nutritionix API (reconocimiento de lenguaje natural)
+- Validación de OpenAI API (conectividad confirmada)
+- Reporte completo de resultados (`RESULTADOS_PRUEBAS_APIS.md`)
+- Stack tecnológico confirmado para MVP
 
 ### Cambiado
 
