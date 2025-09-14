@@ -4,8 +4,9 @@ Aplicación que utiliza inteligencia artificial para analizar fotografías de al
 
 ## 🚀 Estado del Proyecto
 
-**Fase Actual:** Investigación y Análisis (Semana 1)
-**Progreso:** 🟡 En desarrollo
+**Fase Actual:** Fase 1 Completada - Diseño y Arquitectura
+**Progreso:** ✅ Completado (Semana 1)
+**Siguiente:** Semana 2 - Desarrollo del MVP
 
 ## 🏗️ Arquitectura
 
@@ -52,6 +53,10 @@ ContadorCalorias/
 ## 🎯 Funcionalidades MVP
 
 - [x] Configuración inicial del proyecto
+- [x] Investigación y validación de APIs
+- [x] Diseño de arquitectura detallada
+- [x] Especificación de base de datos
+- [x] Definición de APIs REST
 - [ ] Captura de fotografías de alimentos
 - [ ] Reconocimiento automático de alimentos
 - [ ] Estimación de porciones
@@ -96,6 +101,10 @@ npm test
 - [Documentación Técnica](TECHNICAL_DOCS.md)
 - [Flujo de Trabajo IA](FLUJO_TRABAJO_IA.md)
 - [Investigación APIs](INVESTIGACION_APIS.md)
+- [Arquitectura Detallada](ARQUITECTURA_DETALLADA.md)
+- [Esquema de Base de Datos](ESQUEMA_BASE_DATOS.md)
+- [Especificación de APIs](API_SPECIFICATION.md)
+- [Diagramas de Flujo](DIAGRAMAS_FLUJO.md)
 
 ## 🤝 Contribución
 
