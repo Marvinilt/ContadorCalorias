@@ -1,0 +1,31 @@
+# Dependencias para el Contador de Calorías por Foto
+# Fase 1: APIs y Testing
+
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Development
+black>=23.0.0
+flake8>=6.0.0
+
+# Future ML dependencies (commented for now)
+# opencv-python>=4.8.0
+# torch>=2.0.0
+# torchvision>=0.15.0
+# ultralytics>=8.0.0  # For YOLO
+
+# Future web dependencies (commented for now)
+# fastapi>=0.100.0
+# uvicorn>=0.23.0
+# sqlalchemy>=2.0.0
+# psycopg2-binary>=2.9.0
