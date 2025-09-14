@@ -4,9 +4,9 @@ Aplicación que utiliza inteligencia artificial para analizar fotografías de al
 
 ## 🚀 Estado del Proyecto
 
-**Fase Actual:** Fase 1 Completada - Diseño y Arquitectura
-**Progreso:** ✅ Completado (Semana 1)
-**Siguiente:** Semana 2 - Desarrollo del MVP
+**Fase Actual:** Semana 2 - Desarrollo del MVP
+**Progreso:** 🟡 Backend MVP Completado
+**Siguiente:** Frontend React + Testing completo
 
 ## 🏗️ Arquitectura
 
@@ -57,11 +57,14 @@ ContadorCalorias/
 - [x] Diseño de arquitectura detallada
 - [x] Especificación de base de datos
 - [x] Definición de APIs REST
-- [ ] Captura de fotografías de alimentos
-- [ ] Reconocimiento automático de alimentos
-- [ ] Estimación de porciones
-- [ ] Cálculo de calorías y macronutrientes
-- [ ] Visualización de resultados
+- [x] Backend FastAPI implementado
+- [x] Servicios ML y nutrición funcionales
+- [x] Autenticación JWT completa
+- [x] Middleware de seguridad y rate limiting
+- [ ] Frontend React con captura de cámara
+- [ ] Interfaz de usuario completa
+- [ ] Testing end-to-end
+- [ ] Deployment y documentación final
 
 ## 📋 Instalación y Desarrollo
 
@@ -78,7 +81,7 @@ cd ContadorCalorias
 
 # Backend
 cd src/backend
-pip install -r requirements.txt
+pip install -r requirements-backend.txt
 
 # Frontend
 cd ../frontend
@@ -105,6 +108,7 @@ npm test
 - [Esquema de Base de Datos](ESQUEMA_BASE_DATOS.md)
 - [Especificación de APIs](API_SPECIFICATION.md)
 - [Diagramas de Flujo](DIAGRAMAS_FLUJO.md)
+- [Configuración del Backend](docs/BACKEND_SETUP.md)
 
 ## 🤝 Contribución
 
