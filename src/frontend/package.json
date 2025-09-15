@@ -2,7 +2,6 @@
   "name": "contador-calorias-frontend",
   "version": "1.0.0",
   "private": true,
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -42,5 +41,6 @@
     "typescript": "^5.0.2",
     "vite": "^4.4.5",
     "vitest": "^0.34.0"
-  }
+  },
+  "type": "module"
 }
