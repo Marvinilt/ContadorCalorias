@@ -5,8 +5,8 @@ Aplicación que utiliza inteligencia artificial para analizar fotografías de al
 ## 🚀 Estado del Proyecto
 
 **Fase Actual:** Semana 2 - Desarrollo del MVP
-**Progreso:** 🟡 Backend MVP Completado
-**Siguiente:** Frontend React + Testing completo
+**Progreso:** 🟡 Backend + Frontend MVP Completados
+**Siguiente:** Testing completo + Integración final
 
 ## 🏗️ Arquitectura
 
@@ -61,9 +61,10 @@ ContadorCalorias/
 - [x] Servicios ML y nutrición funcionales
 - [x] Autenticación JWT completa
 - [x] Middleware de seguridad y rate limiting
-- [ ] Frontend React con captura de cámara
-- [ ] Interfaz de usuario completa
-- [ ] Testing end-to-end
+- [x] Frontend React con captura de cámara
+- [x] Interfaz de usuario completa
+- [x] Testing framework configurado
+- [ ] Testing end-to-end completo
 - [ ] Deployment y documentación final
 
 ## 📋 Instalación y Desarrollo
@@ -109,6 +110,7 @@ npm test
 - [Especificación de APIs](API_SPECIFICATION.md)
 - [Diagramas de Flujo](DIAGRAMAS_FLUJO.md)
 - [Configuración del Backend](docs/BACKEND_SETUP.md)
+- [Configuración del Frontend](docs/FRONTEND_SETUP.md)
 
 ## 🤝 Contribución
 
